@@ -6,7 +6,7 @@
 # Terminal Output:
 ![4](https://user-images.githubusercontent.com/36730005/84711439-a819a780-af66-11ea-9eac-4c37e528854e.png)
 
-#Group Members:
+# Group Members:
 No. | Name | Enrollment Number
 -- | -- | --
 1 | Rohankumar Rajendralal Parmar | 521392
